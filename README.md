@@ -1,6 +1,6 @@
 # Devise Imprintable
 
-It adds support to devise[http://github.com/plataformatec/devise] for track time and ip for first user sign in.
+It adds support to [devise](http://github.com/plataformatec/devise) for track time and ip for first user sign in.
 
 ## Installation
 

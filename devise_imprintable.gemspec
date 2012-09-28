@@ -14,4 +14,16 @@ Gem::Specification.new do |gem|
   gem.name          = "devise_imprintable"
   gem.require_paths = ["lib"]
   gem.version       = DeviseImprintable::VERSION
+
+  gem.required_ruby_version     = '>= 1.8.6'
+  gem.required_rubygems_version = '>= 1.3.6'
+
+  gem.add_development_dependency('bundler', '>= 1.1.0')
+
+  {
+    'railties' => '~> 3.0',
+    'devise'   => '>= 2.1.0'
+  }.each do |lib, version|
+    gem.add_runtime_dependency(lib, *version)
+  end
 end

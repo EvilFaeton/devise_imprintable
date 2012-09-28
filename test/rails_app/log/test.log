@@ -1,0 +1,1641 @@
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+SQLite3::SQLException: table users has no column named invitation_token: CREATE UNIQUE INDEX "index_users_on_invitation_token" ON "users" ("invitation_token")
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Binary data inserted for `string` type on column `encrypted_password`
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/mailer/confirmation_instructions.html.erb (22.0ms)
+
+Sent mail to fulluser@test.com (35ms)
+Date: Fri, 28 Sep 2012 13:26:02 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <50656d2a62575_95d63fc0d045a738605bc@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=caT8UptQX8iavxE8ibFK">Confirm my account</a></p>
+
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Binary data inserted for `string` type on column `encrypted_password`
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/mailer/confirmation_instructions.html.erb (2.4ms)
+
+Sent mail to fulluser@test.com (62ms)
+Date: Fri, 28 Sep 2012 13:32:51 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <50656ec339fb2_96683fd911c5a72c2532e@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=s3uYrrhYszPEG3Eho7SV">Confirm my account</a></p>
+
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (6ms)
+Date: Fri, 28 Sep 2012 13:32:51 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <50656ec36041d_96683fd911c5a72c254f1@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=SAQ8R4fec27smYhaqNDD">Confirm my account</a></p>
+
+Connecting to database specified by database.yml
+Binary data inserted for `string` type on column `encrypted_password`
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/mailer/confirmation_instructions.html.erb (2.4ms)
+
+Sent mail to fulluser@test.com (50ms)
+Date: Fri, 28 Sep 2012 13:36:22 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <50656f9628191_96ab3fdbbd45a7304981e@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=BrgBkVKsxho8WohPGSyv">Confirm my account</a></p>
+
+Connecting to database specified by database.yml
+Binary data inserted for `string` type on column `encrypted_password`
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/mailer/confirmation_instructions.html.erb (2.0ms)
+
+Sent mail to fulluser@test.com (11ms)
+Date: Fri, 28 Sep 2012 13:36:56 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <50656fb89e971_96be3fecb545a72c1773b@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=jK3RzFmY4f2mWys1mi7R">Confirm my account</a></p>
+
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (8ms)
+Date: Fri, 28 Sep 2012 13:36:56 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <50656fb8a4fad_96be3fecb545a72c1788a@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=ZjgQZEFcyYyzyPVy9JAp">Confirm my account</a></p>
+
+Connecting to database specified by database.yml
+Binary data inserted for `string` type on column `encrypted_password`
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/mailer/confirmation_instructions.html.erb (2.0ms)
+
+Sent mail to fulluser@test.com (12ms)
+Date: Fri, 28 Sep 2012 13:38:53 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <5065702d886c2_96de3fd2dcc5a730793f9@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=apd5TBTXEG5urBTydgLT">Confirm my account</a></p>
+
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:38:53 +0400
+Processing by Devise::SessionsController#new as HTML
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/shared/_links.erb (2.4ms)
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/sessions/new.html.erb within layouts/application (37.3ms)
+Completed 200 OK in 285ms (Views: 283.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:38:54 +0400
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"email"=>"fulluser@test.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+Redirected to http://www.example.com/
+Completed 302 Found in 41ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-09-28 13:38:54 +0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (5ms)
+Date: Fri, 28 Sep 2012 13:38:54 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <5065702e628b5_96de3fd2dcc5a730794af@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=BHsMcy5vJWxhnR7xNHec">Confirm my account</a></p>
+
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (5ms)
+Date: Fri, 28 Sep 2012 13:38:54 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <5065702e6858d_96de3fd2dcc5a730795c1@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=PjgGBp3cYCaJXSbbGj5s">Confirm my account</a></p>
+
+Connecting to database specified by database.yml
+Binary data inserted for `string` type on column `encrypted_password`
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/mailer/confirmation_instructions.html.erb (2.1ms)
+
+Sent mail to fulluser@test.com (14ms)
+Date: Fri, 28 Sep 2012 13:39:02 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <506570362c923_96ea3fd79605a728954b2@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=Xexy5iC2WpBnEqihEbQF">Confirm my account</a></p>
+
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:39:02 +0400
+Processing by Devise::SessionsController#new as HTML
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/shared/_links.erb (3.0ms)
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/sessions/new.html.erb within layouts/application (10.3ms)
+Completed 200 OK in 18ms (Views: 16.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:39:02 +0400
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"email"=>"fulluser@test.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+Redirected to http://www.example.com/
+Completed 302 Found in 14ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-09-28 13:39:02 +0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (5ms)
+Date: Fri, 28 Sep 2012 13:39:02 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <506570365b258_96ea3fd79605a728955c1@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=x2zyq5tXzmrDWZ6p8oF3">Confirm my account</a></p>
+
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (6ms)
+Date: Fri, 28 Sep 2012 13:39:02 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <5065703661a0d_96ea3fd79605a728956f3@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=yJU1erSAUrKpxyQ7ioR5">Confirm my account</a></p>
+
+Connecting to database specified by database.yml
+Binary data inserted for `string` type on column `encrypted_password`
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/mailer/confirmation_instructions.html.erb (1.8ms)
+
+Sent mail to fulluser@test.com (12ms)
+Date: Fri, 28 Sep 2012 13:39:54 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <5065706aad4b0_96fe3fc5cd85a7284891e@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=xGpfRhV2nzVqbqcYY3Jh">Confirm my account</a></p>
+
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:39:54 +0400
+Processing by Devise::SessionsController#new as HTML
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/shared/_links.erb (2.2ms)
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/sessions/new.html.erb within layouts/application (8.5ms)
+Completed 200 OK in 14ms (Views: 13.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:39:54 +0400
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"email"=>"fulluser@test.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+Redirected to http://www.example.com/
+Completed 302 Found in 11ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-09-28 13:39:54 +0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (6ms)
+Date: Fri, 28 Sep 2012 13:39:54 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <5065706ace80d_96fe3fc5cd85a72849037@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=xfNsPpjnDux86G742mjy">Confirm my account</a></p>
+
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (5ms)
+Date: Fri, 28 Sep 2012 13:39:54 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <5065706ad572f_96fe3fc5cd85a728491c5@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=YGw9GZHsxyz1xxxjntyA">Confirm my account</a></p>
+
+Connecting to database specified by database.yml
+Binary data inserted for `string` type on column `encrypted_password`
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/mailer/confirmation_instructions.html.erb (1.9ms)
+
+Sent mail to fulluser@test.com (11ms)
+Date: Fri, 28 Sep 2012 13:42:51 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <5065711b8106c_97243fe98c85a72c9864f@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=j2p7KtsL4Deyj5h1s6v9">Confirm my account</a></p>
+
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:42:51 +0400
+Processing by Devise::SessionsController#new as HTML
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/shared/_links.erb (3.5ms)
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/sessions/new.html.erb within layouts/application (10.8ms)
+Completed 200 OK in 18ms (Views: 16.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:42:51 +0400
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"email"=>"fulluser@test.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+Redirected to http://www.example.com/
+Completed 302 Found in 11ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-09-28 13:42:51 +0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (5ms)
+Date: Fri, 28 Sep 2012 13:42:51 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <5065711ba3549_97243fe98c85a72c98738@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=Hikc4yYvyf4UYxQzXdPz">Confirm my account</a></p>
+
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (5ms)
+Date: Fri, 28 Sep 2012 13:42:51 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <5065711ba8dbb_97243fe98c85a72c988bb@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=7gxxh1o1SCCyUxozusra">Confirm my account</a></p>
+
+Connecting to database specified by database.yml
+Binary data inserted for `string` type on column `encrypted_password`
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/mailer/confirmation_instructions.html.erb (1.9ms)
+
+Sent mail to fulluser@test.com (11ms)
+Date: Fri, 28 Sep 2012 13:43:28 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <50657140d7fc2_97373fcea145a72c82228@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=VYGUSQykQyNwWyxytuyF">Confirm my account</a></p>
+
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:43:28 +0400
+Processing by Devise::SessionsController#new as HTML
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/shared/_links.erb (2.6ms)
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/sessions/new.html.erb within layouts/application (8.9ms)
+Completed 200 OK in 14ms (Views: 13.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:43:28 +0400
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"email"=>"fulluser@test.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+Redirected to http://www.example.com/
+Completed 302 Found in 12ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-09-28 13:43:29 +0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (6ms)
+Date: Fri, 28 Sep 2012 13:43:29 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <5065714160aa_97373fcea145a72c823bc@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=28eMpAAhRDJB55srSuTD">Confirm my account</a></p>
+
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (6ms)
+Date: Fri, 28 Sep 2012 13:43:29 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <50657141c030_97373fcea145a72c8246f@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=pssD7zE4oFiM7XAwRsaa">Confirm my account</a></p>
+
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:43:29 +0400
+Processing by Devise::SessionsController#new as HTML
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/shared/_links.erb (0.6ms)
+Completed 200 OK in 5ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:43:29 +0400
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"email"=>"fulluser@test.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+Redirected to http://www.example.com/
+Completed 302 Found in 7ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-09-28 13:43:29 +0400
+Processing by HomeController#index as HTML
+Completed 200 OK in 1ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+Connecting to database specified by database.yml
+Binary data inserted for `string` type on column `encrypted_password`
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/mailer/confirmation_instructions.html.erb (1.9ms)
+
+Sent mail to fulluser@test.com (11ms)
+Date: Fri, 28 Sep 2012 13:43:52 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <5065715830d22_97463fde6205a728787d8@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=9nVFzfxF4wu5Dq7ETfsy">Confirm my account</a></p>
+
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:43:52 +0400
+Processing by Devise::SessionsController#new as HTML
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/shared/_links.erb (4.8ms)
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/sessions/new.html.erb within layouts/application (13.4ms)
+Completed 200 OK in 19ms (Views: 17.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:43:52 +0400
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"email"=>"fulluser@test.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+Redirected to http://www.example.com/
+Completed 302 Found in 11ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-09-28 13:43:52 +0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (5ms)
+Date: Fri, 28 Sep 2012 13:43:52 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <5065715857c4f_97463fde6205a728788c0@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=vzA5puUVPjCnXtmMXfh1">Confirm my account</a></p>
+
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (5ms)
+Date: Fri, 28 Sep 2012 13:43:52 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <506571585e457_97463fde6205a72878994@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=V1maEFitxDASHwcysSxb">Confirm my account</a></p>
+
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:43:52 +0400
+Processing by Devise::SessionsController#new as HTML
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/shared/_links.erb (0.8ms)
+Completed 200 OK in 5ms (Views: 4.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:43:52 +0400
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"email"=>"fulluser@test.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+Redirected to http://www.example.com/
+Completed 302 Found in 7ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-09-28 13:43:52 +0400
+Processing by HomeController#index as HTML
+Completed 200 OK in 1ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+Connecting to database specified by database.yml
+Binary data inserted for `string` type on column `encrypted_password`
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/mailer/confirmation_instructions.html.erb (3.8ms)
+
+Sent mail to fulluser@test.com (16ms)
+Date: Fri, 28 Sep 2012 13:44:35 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <50657183da41d_97583fc69205a7382994a@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=qY5woN2ArqaDF1k6FYPV">Confirm my account</a></p>
+
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:44:35 +0400
+Processing by Devise::SessionsController#new as HTML
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/shared/_links.erb (2.6ms)
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/sessions/new.html.erb within layouts/application (10.1ms)
+Completed 200 OK in 16ms (Views: 14.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:44:36 +0400
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"email"=>"fulluser@test.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+Redirected to http://www.example.com/
+Completed 302 Found in 12ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-09-28 13:44:36 +0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (5ms)
+Date: Fri, 28 Sep 2012 13:44:36 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <50657184bfbc_97583fc69205a73830075@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=SZKiTuQ5mvvLc1sYQsU8">Confirm my account</a></p>
+
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (12ms)
+Date: Fri, 28 Sep 2012 13:44:36 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <5065718413b70_97583fc69205a738301a0@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=WpZA7rBKXpS3RWed5NsX">Confirm my account</a></p>
+
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:44:36 +0400
+Processing by Devise::SessionsController#new as HTML
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/shared/_links.erb (1.8ms)
+Completed 200 OK in 6ms (Views: 5.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:44:36 +0400
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"email"=>"fulluser@test.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+Redirected to http://www.example.com/
+Completed 302 Found in 8ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-09-28 13:44:36 +0400
+Processing by HomeController#index as HTML
+Completed 200 OK in 1ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+Connecting to database specified by database.yml
+Binary data inserted for `string` type on column `encrypted_password`
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/mailer/confirmation_instructions.html.erb (2.2ms)
+
+Sent mail to fulluser@test.com (13ms)
+Date: Fri, 28 Sep 2012 13:44:49 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <506571918e6c6_97643fcda585a7345993d@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=HAih2xFfEj4puaFsj279">Confirm my account</a></p>
+
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:44:49 +0400
+Processing by Devise::SessionsController#new as HTML
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/shared/_links.erb (2.9ms)
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/sessions/new.html.erb within layouts/application (9.3ms)
+Completed 200 OK in 16ms (Views: 14.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:44:49 +0400
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"email"=>"fulluser@test.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+Redirected to http://www.example.com/
+Completed 302 Found in 12ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-09-28 13:44:49 +0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (7ms)
+Date: Fri, 28 Sep 2012 13:44:49 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <50657191b15fb_97643fcda585a7346007e@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=XBEsaM1qiDvSQSCJxpoW">Confirm my account</a></p>
+
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (7ms)
+Date: Fri, 28 Sep 2012 13:44:49 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <50657191b8af6_97643fcda585a73460186@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=MusVfNpzczWKeLsXvQGG">Confirm my account</a></p>
+
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:44:49 +0400
+Processing by Devise::SessionsController#new as HTML
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/shared/_links.erb (0.6ms)
+Completed 200 OK in 4ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:44:49 +0400
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"email"=>"fulluser@test.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+Redirected to http://www.example.com/
+Completed 302 Found in 7ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-09-28 13:44:49 +0400
+Processing by HomeController#index as HTML
+Completed 200 OK in 5ms (Views: 4.4ms | ActiveRecord: 0.0ms)
+Connecting to database specified by database.yml
+Binary data inserted for `string` type on column `encrypted_password`
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/mailer/confirmation_instructions.html.erb (1.8ms)
+
+Sent mail to fulluser@test.com (11ms)
+Date: Fri, 28 Sep 2012 13:45:24 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <506571b4111ad_97773fd25cc5a738929cc@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=Ry7uH6VmnbrFEuENYTa2">Confirm my account</a></p>
+
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:45:24 +0400
+Processing by Devise::SessionsController#new as HTML
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/shared/_links.erb (2.3ms)
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/sessions/new.html.erb within layouts/application (8.8ms)
+Completed 200 OK in 15ms (Views: 13.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:45:24 +0400
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"email"=>"fulluser@test.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+Redirected to http://www.example.com/
+Completed 302 Found in 12ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-09-28 13:45:24 +0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (6ms)
+Date: Fri, 28 Sep 2012 13:45:24 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <506571b433973_97773fd25cc5a7389306e@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=AZ6578H5CzCzHvAThwYZ">Confirm my account</a></p>
+
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (6ms)
+Date: Fri, 28 Sep 2012 13:45:24 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <506571b43ad25_97773fd25cc5a738931e7@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=oC91oPXEqW4tRG7p7hLd">Confirm my account</a></p>
+
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:45:24 +0400
+Processing by Devise::SessionsController#new as HTML
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/shared/_links.erb (2.4ms)
+Completed 200 OK in 8ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:45:24 +0400
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"email"=>"fulluser@test.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+Redirected to http://www.example.com/
+Completed 302 Found in 11ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-09-28 13:45:24 +0400
+Processing by HomeController#index as HTML
+Completed 200 OK in 3ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+Connecting to database specified by database.yml
+Binary data inserted for `string` type on column `encrypted_password`
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/mailer/confirmation_instructions.html.erb (2.1ms)
+
+Sent mail to fulluser@test.com (12ms)
+Date: Fri, 28 Sep 2012 13:45:53 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <506571d1371ee_97863fefa085a730258c@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=ockhxExtNjeCmShTyTqr">Confirm my account</a></p>
+
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:45:53 +0400
+Processing by Devise::SessionsController#new as HTML
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/shared/_links.erb (2.6ms)
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/sessions/new.html.erb within layouts/application (9.3ms)
+Completed 200 OK in 18ms (Views: 17.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:45:53 +0400
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"email"=>"fulluser@test.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+Redirected to http://www.example.com/
+Completed 302 Found in 12ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-09-28 13:45:53 +0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (7ms)
+Date: Fri, 28 Sep 2012 13:45:53 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <506571d15e690_97863fefa085a730259ae@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=hW8AYLMxXPRbxXj2taWx">Confirm my account</a></p>
+
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (5ms)
+Date: Fri, 28 Sep 2012 13:45:53 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <506571d1655d3_97863fefa085a73026060@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=sGp9hNbmg1NHxDaqMsZx">Confirm my account</a></p>
+
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:45:53 +0400
+Processing by Devise::SessionsController#new as HTML
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/shared/_links.erb (0.6ms)
+Completed 200 OK in 5ms (Views: 4.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:45:53 +0400
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"email"=>"fulluser@test.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+Redirected to http://www.example.com/
+Completed 302 Found in 10ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-09-28 13:45:53 +0400
+Processing by HomeController#index as HTML
+Completed 200 OK in 1ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+Connecting to database specified by database.yml
+Binary data inserted for `string` type on column `encrypted_password`
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/mailer/confirmation_instructions.html.erb (1.9ms)
+
+Sent mail to fulluser@test.com (12ms)
+Date: Fri, 28 Sep 2012 13:46:06 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <506571deba7e8_97933ff5c5c5a738566eb@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=sFg2NBUYxTjhoYz31xVq">Confirm my account</a></p>
+
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:46:06 +0400
+Processing by Devise::SessionsController#new as HTML
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/shared/_links.erb (2.2ms)
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/sessions/new.html.erb within layouts/application (9.2ms)
+Completed 200 OK in 15ms (Views: 13.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:46:06 +0400
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"email"=>"fulluser@test.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+Redirected to http://www.example.com/
+Completed 302 Found in 13ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-09-28 13:46:06 +0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (11ms)
+Date: Fri, 28 Sep 2012 13:46:06 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <506571dedfed9_97933ff5c5c5a738567f9@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=x8NzqmcPrEpcjMc1r96s">Confirm my account</a></p>
+
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (5ms)
+Date: Fri, 28 Sep 2012 13:46:06 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <506571dee87f6_97933ff5c5c5a738568fd@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=5fN8Dz6ih6xPdKumWCi1">Confirm my account</a></p>
+
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:46:06 +0400
+Processing by Devise::SessionsController#new as HTML
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/shared/_links.erb (0.7ms)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:46:06 +0400
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"email"=>"fulluser@test.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+Redirected to http://www.example.com/
+Completed 302 Found in 7ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-09-28 13:46:06 +0400
+Processing by HomeController#index as HTML
+Completed 200 OK in 1ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+Connecting to database specified by database.yml
+Binary data inserted for `string` type on column `encrypted_password`
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/mailer/confirmation_instructions.html.erb (1.8ms)
+
+Sent mail to fulluser@test.com (15ms)
+Date: Fri, 28 Sep 2012 13:46:20 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <506571ec8fe8e_979f3fcf1205a728647ae@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=zr1yfQ1bSDiJ92cqiSha">Confirm my account</a></p>
+
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:46:20 +0400
+Processing by Devise::SessionsController#new as HTML
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/shared/_links.erb (2.5ms)
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/sessions/new.html.erb within layouts/application (9.2ms)
+Completed 200 OK in 15ms (Views: 13.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:46:20 +0400
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"email"=>"fulluser@test.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+Redirected to http://www.example.com/
+Completed 302 Found in 11ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-09-28 13:46:20 +0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 4ms (Views: 3.6ms | ActiveRecord: 0.0ms)
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (5ms)
+Date: Fri, 28 Sep 2012 13:46:20 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <506571ecb6709_979f3fcf1205a7286481f@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=kKsfiij9T2JyvRtU4jf3">Confirm my account</a></p>
+
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (5ms)
+Date: Fri, 28 Sep 2012 13:46:20 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <506571ecbc5bd_979f3fcf1205a7286493e@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=fwLGE74MhEAYcwkiDfBQ">Confirm my account</a></p>
+
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:46:20 +0400
+Processing by Devise::SessionsController#new as HTML
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/shared/_links.erb (0.7ms)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:46:20 +0400
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"email"=>"fulluser@test.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+Redirected to http://www.example.com/
+Completed 302 Found in 7ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-09-28 13:46:20 +0400
+Processing by HomeController#index as HTML
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+Connecting to database specified by database.yml
+Binary data inserted for `string` type on column `encrypted_password`
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/mailer/confirmation_instructions.html.erb (2.3ms)
+
+Sent mail to fulluser@test.com (11ms)
+Date: Fri, 28 Sep 2012 13:47:08 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <5065721c2eb14_97b13ff4e545a7304561@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=qGZCp4xpsmHCpqXntXsz">Confirm my account</a></p>
+
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (5ms)
+Date: Fri, 28 Sep 2012 13:47:08 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <5065721c3628c_97b13ff4e545a73045711@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=i967gTYaCkZRj7RToMsz">Confirm my account</a></p>
+
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:47:08 +0400
+Processing by Devise::SessionsController#new as HTML
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/shared/_links.erb (2.7ms)
+Completed 200 OK in 18ms (Views: 16.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:47:08 +0400
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"email"=>"fulluser@test.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+Redirected to http://www.example.com/
+Completed 302 Found in 11ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-09-28 13:47:08 +0400
+Processing by HomeController#index as HTML
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+Connecting to database specified by database.yml
+Binary data inserted for `string` type on column `encrypted_password`
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/mailer/confirmation_instructions.html.erb (1.9ms)
+
+Sent mail to fulluser@test.com (11ms)
+Date: Fri, 28 Sep 2012 13:47:45 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <5065724191293_97cd3fc61545a734582ed@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=swLs9eSfYzKnNUPhiRB8">Confirm my account</a></p>
+
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (6ms)
+Date: Fri, 28 Sep 2012 13:47:45 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <50657241982b2_97cd3fc61545a734583a6@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=4yRqMfn8Wsfwn9tEtZ9p">Confirm my account</a></p>
+
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:47:45 +0400
+Processing by Devise::SessionsController#new as HTML
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/shared/_links.erb (5.0ms)
+Completed 200 OK in 18ms (Views: 16.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:47:45 +0400
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"email"=>"fulluser@test.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+Completed 500 Internal Server Error in 6ms
+Connecting to database specified by database.yml
+Binary data inserted for `string` type on column `encrypted_password`
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/mailer/confirmation_instructions.html.erb (3.6ms)
+
+Sent mail to fulluser@test.com (13ms)
+Date: Fri, 28 Sep 2012 13:48:00 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <506572503be2a_97da3fec45c5a7301b0@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=PiKwpnJwWJdPEGiaHRhe">Confirm my account</a></p>
+
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (5ms)
+Date: Fri, 28 Sep 2012 13:48:00 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <50657250458e6_97da3fec45c5a730279@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=4u7feqnzYybqs8KPztJi">Confirm my account</a></p>
+
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:48:00 +0400
+Processing by Devise::SessionsController#new as HTML
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/shared/_links.erb (2.3ms)
+Completed 200 OK in 15ms (Views: 14.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:48:00 +0400
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"email"=>"fulluser@test.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+Redirected to http://www.example.com/
+Completed 302 Found in 10ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-09-28 13:48:00 +0400
+Processing by HomeController#index as HTML
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+Connecting to database specified by database.yml
+Binary data inserted for `string` type on column `encrypted_password`
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/mailer/confirmation_instructions.html.erb (2.1ms)
+
+Sent mail to fulluser@test.com (13ms)
+Date: Fri, 28 Sep 2012 13:48:25 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <50657269cc1ea_97ea3fc17145a72843717@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=VqcAZtYy7yZmyDzrrzkj">Confirm my account</a></p>
+
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:48:25 +0400
+Processing by Devise::SessionsController#new as HTML
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/shared/_links.erb (2.4ms)
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/sessions/new.html.erb within layouts/application (10.2ms)
+Completed 200 OK in 16ms (Views: 14.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:48:25 +0400
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"email"=>"fulluser@test.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+Redirected to http://www.example.com/
+Completed 302 Found in 12ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-09-28 13:48:25 +0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 4ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (5ms)
+Date: Fri, 28 Sep 2012 13:48:25 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <50657269f0bb0_97ea3fc17145a728438fb@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=PtTTKgiTT5gjRscL14RW">Confirm my account</a></p>
+
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (7ms)
+Date: Fri, 28 Sep 2012 13:48:26 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <5065726a2cc3_97ea3fc17145a72843973@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=dvuTVvzR21x93ybh6cpZ">Confirm my account</a></p>
+
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:48:26 +0400
+Processing by Devise::SessionsController#new as HTML
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/shared/_links.erb (0.6ms)
+Completed 200 OK in 5ms (Views: 4.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:48:26 +0400
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"email"=>"fulluser@test.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+Redirected to http://www.example.com/
+Completed 302 Found in 6ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-09-28 13:48:26 +0400
+Processing by HomeController#index as HTML
+Completed 200 OK in 1ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+Connecting to database specified by database.yml
+Binary data inserted for `string` type on column `encrypted_password`
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/mailer/confirmation_instructions.html.erb (0.0ms)
+
+Sent mail to fulluser@test.com (0ms)
+Date: Fri, 28 Sep 2012 13:49:47 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <506572bda8797_98003ff6d905a734727a@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=DpdXusN3JtDCNGNtEmT3">Confirm my account</a></p>
+
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2012-09-28 09:49:49 UTC
+Processing by Devise::SessionsController#new as HTML
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/shared/_links.erb (0.0ms)
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/sessions/new.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 0ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2012-09-28 09:49:49 UTC
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"email"=>"fulluser@test.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+Redirected to http://www.example.com/
+Completed 302 Found in 0ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-09-28 09:49:49 UTC
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 0ms (Views: 0.0ms | ActiveRecord: 0.0ms)
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (5ms)
+Date: Fri, 28 Sep 2012 13:49:47 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <506572bbf0526_98003ff6d905a73472860@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=oVnnqzG6Wak2pJDwPYWw">Confirm my account</a></p>
+
+Binary data inserted for `string` type on column `encrypted_password`
+
+Sent mail to fulluser@test.com (7ms)
+Date: Fri, 28 Sep 2012 13:49:48 +0400
+From: please-change-me-at-config-initializers-devise@example.com
+Reply-To: please-change-me-at-config-initializers-devise@example.com
+To: fulluser@test.com
+Message-ID: <506572bc293c_98003ff6d905a7347291f@redbox.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome fulluser@test.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://test.com/users/confirmation?confirmation_token=WmRpXYKnez6YYpinxyfs">Confirm my account</a></p>
+
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:49:48 +0400
+Processing by Devise::SessionsController#new as HTML
+  Rendered /Users/sergey/.rvm/gems/ruby-1.9.3-p194@resumup/gems/devise-2.1.2/app/views/devise/shared/_links.erb (0.6ms)
+Completed 200 OK in 5ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2012-09-28 13:49:48 +0400
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "user"=>{"email"=>"fulluser@test.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+Redirected to http://www.example.com/
+Completed 302 Found in 6ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-09-28 13:49:48 +0400
+Processing by HomeController#index as HTML
+Completed 200 OK in 1ms (Views: 1.3ms | ActiveRecord: 0.0ms)

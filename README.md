@@ -1,6 +1,6 @@
-# DeviseImprintable
+# Devise Imprintable
 
-TODO: Write a gem description
+It adds support to devise[http://github.com/plataformatec/devise] for track time and ip for first user sign in.
 
 ## Installation
 
@@ -16,9 +16,33 @@ Or install it yourself as:
 
     $ gem install devise_imprintable
 
-## Usage
+When you are done, you are ready to add DeviseImprintable to any of your Devise models using the following generator:
 
-TODO: Write usage instructions here
+  rails generate devise_imprintable Model
+
+Or just add fields to your model:
+  class DeviseInvitableAddToUsers < ActiveRecord::Migration
+    def up
+      change_table :users do |t|
+        t.datetime   :first_sign_in_at
+        t.string     :first_sign_in_ip
+      end
+    end
+
+    def down
+      change_table :users do |t|
+        t.remove :first_sign_ip, :first_sign_in_at
+      end
+    end
+  end   
+
+and add imprintable to your model:
+  
+  class User < ActiveRecord::Base
+    devise :database_authenticatable, :registerable, :imprintable
+
+    ...
+  end
 
 ## Contributing
 

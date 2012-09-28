@@ -1,6 +1,6 @@
-module DeviseInvitable
+module DeviseImprintable
   module Generators
-    class DeviseInvitableGenerator < Rails::Generators::NamedBase
+    class DeviseImprintableGenerator < Rails::Generators::NamedBase
       namespace "devise_imprintable"
 
       desc "Add :imprintable directive in the given model. Also generate migration for ActiveRecord"

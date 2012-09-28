@@ -4,8 +4,8 @@ require File.expand_path('../lib/devise_imprintable/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.authors       = ["Sergey Efremov"]
   gem.email         = ["efremov.sergey@gmail.com"]
-  gem.description   = %q{Gem for tracking first sign event in for user}
-  gem.summary       = %q{Gem for tracking first sign event in for user}
+  gem.description   = %q{An imprintable strategy for Devise}
+  gem.summary       = %q{It adds support to devise for track time and ip for first user sign in.}
   gem.homepage      = "https://github.com/EvilFaeton/devise_imprintable"
 
   gem.files         = `git ls-files`.split($\)

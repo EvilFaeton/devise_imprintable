@@ -22,7 +22,7 @@ When you are done, you are ready to add DeviseImprintable to any of your Devise 
 
 Or just add fields to your model:
 
-    class DeviseInvitableAddToUsers < ActiveRecord::Migration
+    class DeviseImprintableAddToUsers < ActiveRecord::Migration
       def up
         change_table :users do |t|
           t.datetime   :first_sign_in_at
